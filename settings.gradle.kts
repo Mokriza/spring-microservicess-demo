@@ -1,2 +1,5 @@
 rootProject.name = "spring-microservices-demo"
 
+includeBuild("eureka-server")
+includeBuild("eureka-client")
+
